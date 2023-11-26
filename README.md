@@ -6,11 +6,6 @@
 - MelonLoader Modder
 - Contract Developer
 
-<h2>Currently Working On</h2>
-
-- <a href="https://store.steampowered.com/app/2239460/Project_Backrooms">Project Backrooms</a>
-- MelonLoader Mods
-
 <h2>Languages</h2>
 <p align="left">
   <a>
