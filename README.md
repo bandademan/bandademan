@@ -2,7 +2,7 @@
 
 <h3 align="left">All around Software Engineer</h3>
 
-- Unity Developer
+- Game Developer
 - MelonLoader Modder
 - Contract Developer
 
